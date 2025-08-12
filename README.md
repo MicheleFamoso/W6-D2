@@ -16,7 +16,7 @@ Apprendere e applicare il sistema a griglia di Bootstrap per costruire un layout
 ## Struttura del progetto
 
 - `index.html` — pagina unica costruita con Bootstrap  
-- `style.css` — eventuali personalizzazioni extra (opzionale)  
+
 
 ## Screenshot
 
